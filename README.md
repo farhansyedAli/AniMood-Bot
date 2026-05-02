@@ -63,8 +63,11 @@ To test the AI Chatbot Companion, follow these steps:
 
 <img width="1604" height="793" alt="image" src="https://github.com/user-attachments/assets/6334ba73-5682-4e1d-a1bf-25af8c59f1ee" />
 
+----------------
+
 <img width="1219" height="682" alt="image" src="https://github.com/user-attachments/assets/f384301b-f83f-4ed3-8386-d13d05288556" />
 
+----------------
 
 📦 API Reference
 ----------------
